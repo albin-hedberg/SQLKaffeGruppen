@@ -31,6 +31,16 @@ public static class ProductManager
         db.SaveChanges();
     }
 
+    public static void ViewAllProducts()
+    {
+        foreach (var product in db.Products
+                     .Include(product => product.Tags).Include(product => product.Category)
+                     .Include(product => product.Supplier).ToList())
+        {
+            Console.WriteLine($"{product.ID} {product.Name} {product.Price} Tags: {product.Tags} {product.Category.Name} {product.Supplier.Name} {product.Supplier.ContactInformation}");
+        }
+    }
+
     public static void ViewCategoryProducts()
     {
         Console.WriteLine("Välj ett kategori ID:");
@@ -41,5 +51,29 @@ public static class ProductManager
         {
             Console.WriteLine($"{product.ID} {product.Name} {product.Price} {product.Category.Name} {product.Supplier.Name} {product.Supplier.ContactInformation}");
         }
+    }
+
+    public static void UpdateProductSupplier()
+    {
+        Console.WriteLine("Välj ett produkt ID:");
+        var updateProduct = db.Products.Find(int.Parse(Console.ReadLine()));
+
+        Console.WriteLine("Välj ett nytt supplier ID:");
+        updateProduct.SupplierID = int.Parse(Console.ReadLine());
+
+        db.SaveChanges();
+    }
+
+    public static void AddTagToProduct()
+    {
+        Console.WriteLine("Välj ett produkt ID:");
+        var product = db.Products.Find(int.Parse(Console.ReadLine()));
+
+        Console.WriteLine("Välj ett tag ID:");
+        var tag = db.Tags.Find(int.Parse(Console.ReadLine()));
+
+        product.Tags.Add(tag);
+
+        db.SaveChanges();
     }
 }

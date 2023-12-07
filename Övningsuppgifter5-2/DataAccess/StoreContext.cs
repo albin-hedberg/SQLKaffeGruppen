@@ -8,6 +8,7 @@ namespace DataAccess
         public DbSet<Product> Products { get; set; } = null!;
         public DbSet<Category> Categories { get; set; } = null!;
         public DbSet<Supplier> Suppliers { get; set; } = null!;
+        public DbSet<Tag> Tags { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

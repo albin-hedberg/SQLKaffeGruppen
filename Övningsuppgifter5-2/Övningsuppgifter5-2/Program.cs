@@ -4,15 +4,6 @@ using DataAccess;
 using DataAccess.Entities;
 using Övningsuppgifter5_2;
 
-//var db = new StoreContext();
-//db.Suppliers.Add(new Supplier()
-//{
-//    Name = "Cloetta",
-//    ContactInformation = "mail@mail.com"
-//});
-
-//db.SaveChanges();
-
 //CategoryManager.AddCategory();
 //CategoryManager.UpdateCategory();
 //CategoryManager.RemoveCategory();
@@ -23,5 +14,22 @@ using Övningsuppgifter5_2;
 //ProductManager.AddProduct();
 //ProductManager.ViewCategoryProducts();
 
+//ProductManager.UpdateProductSupplier();
+
 // //Console.WriteLine("--------------------");
 
+//SupplierManager.AddSupplier();
+//SupplierManager.UpdateSupplier();
+//SupplierManager.ViewSupplierProducts();
+
+// //Console.WriteLine("--------------------");
+
+//TagManager.AddTag();
+//TagManager.UpdateTag();
+//TagManager.RemoveTag();
+ProductManager.ViewAllProducts();
+TagManager.ViewAllTags();
+
+ProductManager.AddTagToProduct();
+
+ProductManager.ViewAllProducts();

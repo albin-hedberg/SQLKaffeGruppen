@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Övningsuppgifter5-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db7a71516fb449df23780087ec466098b221e6c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+118ee3efd7067c309e6911594dd4be6937131eab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Övningsuppgifter5-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Övningsuppgifter5-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
