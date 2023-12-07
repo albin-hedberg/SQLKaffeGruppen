@@ -1,0 +1,15 @@
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5-2\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
