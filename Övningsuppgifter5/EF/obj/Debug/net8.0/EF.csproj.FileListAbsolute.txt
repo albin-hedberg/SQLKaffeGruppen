@@ -1,0 +1,15 @@
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\bin\Debug\net8.0\EF.deps.json
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\bin\Debug\net8.0\EF.runtimeconfig.json
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\bin\Debug\net8.0\EF.dll
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\bin\Debug\net8.0\EF.pdb
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.csproj.AssemblyReference.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.AssemblyInfoInputs.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.AssemblyInfo.cs
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.csproj.CoreCompileInputs.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.sourcelink.json
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.dll
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\refint\EF.dll
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.pdb
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\EF.genruntimeconfig.cache
+C:\Kod\GitHub\SQLKaffeGruppen\Övningsuppgifter5\EF\obj\Debug\net8.0\ref\EF.dll
